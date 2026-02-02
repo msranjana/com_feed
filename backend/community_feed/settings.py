@@ -25,7 +25,7 @@ SECRET_KEY = config('SECRET_KEY')
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "com-feed.vercel.app",
+    "com-feed.onrender.com",
     "localhost",
     "127.0.0.1",
 ]
