@@ -1,6 +1,6 @@
 # Community Feed Prototype
 
-A high-performance community feed with threaded discussions and dynamic karma-based leaderboard, built for Playto.
+A high-performance community feed with threaded discussions and dynamic karma-based leaderboard.
 
 ## 🏗️ Architecture
 
@@ -229,9 +229,6 @@ python manage.py migrate
 3. Update documentation
 4. Ensure all technical constraints are met
 
-## 📝 License
-
-Built for Playto technical assessment.
 
 ---
 
