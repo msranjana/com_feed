@@ -25,7 +25,7 @@ SECRET_KEY = config('SECRET_KEY')
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "com-feed.onrender.com",
+    "com-feed.vercel.app",
     "localhost",
     "127.0.0.1",
 ]
@@ -142,8 +142,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3001",
     "http://127.0.0.1:3000",
     "http://127.0.0.1:3001",
-    "https://com-feed.onrender.com",
-    
+ "https://com-feed.vercel.app",    
 ]
 
 CORS_ALLOW_CREDENTIALS = True
