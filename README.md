@@ -4,7 +4,7 @@ A feed with threaded discussions and dynamic karma-based leaderboard.
 
 ##  Architecture
 
-**Backend**: Django + Django REST Framework + SQLite  
+**Backend**: Django + Django REST Framework 
 **Frontend**: React + Tailwind CSS  
 **Database**: SQLite (easily switchable to PostgreSQL)
 
